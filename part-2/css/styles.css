@@ -27,3 +27,55 @@ figure {
   width: 50%;
   margin: 40px auto;
 }
+
+i.fa.fa-2x.fa-clock-o {
+  z-index: 2;
+position: relative;
+left: 450px;
+bottom: 700px;
+color: white;
+}
+
+p.film-description {
+position: relative;
+left: 700px;
+bottom: 800px;
+}
+
+.film-title h1 {
+  position: relative;
+    left: 700px;
+    bottom: 790px;
+}
+
+i.fa.fa-2x.fa-clock-o {
+  position: relative;
+left: 450px;
+bottom: 700px;
+color: white;
+}
+
+h1.film-title {
+  position: relative;
+left: 700px;
+bottom: 650px;
+}
+
+p.film-description {
+  position: relative;
+left: 700px;
+bottom: 600px;
+}
+
+i.fa.fa-2x.fa-clock-o {
+position: relative;
+left: 450px;
+bottom: 700px;
+color: white;
+}
+
+action-like {
+  position: relative;
+    left: 700px;
+    bottom: 600px;
+}
